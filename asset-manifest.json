@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Snapshot-Photo-Frame/static/css/main.bc3ac80c.css",
+    "main.js": "/Snapshot-Photo-Frame/static/js/main.e5c71436.js",
+    "static/media/photo.jpeg": "/Snapshot-Photo-Frame/static/media/photo.5fb447a34cf4caf9bf18.jpeg",
+    "static/media/page-not-found.jpg": "/Snapshot-Photo-Frame/static/media/page-not-found.b65b4fce0faa224e30cb.jpg",
+    "static/media/camera_1.jpg": "/Snapshot-Photo-Frame/static/media/camera_1.8c413a157a2d01be2299.jpg",
+    "index.html": "/Snapshot-Photo-Frame/index.html",
+    "main.bc3ac80c.css.map": "/Snapshot-Photo-Frame/static/css/main.bc3ac80c.css.map",
+    "main.e5c71436.js.map": "/Snapshot-Photo-Frame/static/js/main.e5c71436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3ac80c.css",
+    "static/js/main.e5c71436.js"
+  ]
+}
